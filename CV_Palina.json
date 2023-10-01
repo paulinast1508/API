@@ -1,0 +1,23 @@
+{
+   "name":"Palina",
+   "last name":"Uzakov",
+   "date of birth":"08.15.1994",
+   "gender":"female",
+   "phone number":"13473234702",
+   "email":"uzakov.palina@gmail.com",
+   "address":{
+      "city":"Brooklyn",
+      "state":"NY"
+   },
+   "langueges":[
+      "english",
+      "russian",
+      "greek"
+   ],
+   "social":"paulinast",
+   "education":"Long Island University",
+   "occupation":null,
+   "hobbies":"fencing",
+   "work expiriense":"yes",
+   "driver license":true
+}
